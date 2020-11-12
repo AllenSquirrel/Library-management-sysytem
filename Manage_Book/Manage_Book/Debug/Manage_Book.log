@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\desktop\c++项目\图书管理系统\manage_book\manage_book\main.cpp(120): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+c:\users\administrator\desktop\c++项目\图书管理系统\manage_book\manage_book\main.cpp(122): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  Manage_Book.vcxproj -> C:\Users\Administrator\Desktop\C++项目\图书管理系统\Manage_Book\Debug\Manage_Book.exe

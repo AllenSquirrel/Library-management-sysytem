@@ -1,0 +1,15 @@
+图书类：
+CBook类：
+成员变量：
+	m_cName 图书名称
+	m_cIsbn    ISBN编号
+	m_cPrice   图书价格
+	m_cAuthor 作者
+成员函数：
+GetBookFromFile  从数据库构建图书对象
+WriteData  获取图书信息数据写入文件
+DeleteData 根据图书位置删除图书信息
+GetName 获取图书名
+SetName 设置图书名
+GetISBN  获取ISBN
+SetISBN  设置ISBN
